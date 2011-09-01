@@ -2,3 +2,5 @@ name = CKEditor Styles
 description = Adds custom CSS classes to the CKEditor
 package = Custom
 core = 6.x
+
+version = "6.x-1.0"
